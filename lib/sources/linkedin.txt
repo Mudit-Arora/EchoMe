@@ -1,0 +1,34 @@
+AI Engineer Feb 2026 – Mar 2026
+EzMedTech AI 
+• Built Voice AI agents for clinical appointments using ElevenLabs with proprietary and open-source LLMs.
+
+Deep Learning Researcher May 2025 – Feb 2026
+Uniphore Palo Alto, CA
+• Generated 500+ synthetic conversations based on ReAct & Pre-Act frameworks across domains (Banking, Travel, etc.)
+for a flexible dialog agent capable of multi-turn reasoning and dynamic tool calling on normal, happy, and unhappy paths.
+• Trained a series of Qwen Small Language Models using Supervised Fine Tuning (SFT) to generalize tool use and
+tuned Reinforcement Learning with Verifiable Rewards (RLVR) on Action, Tool, and Semantic Rewards.
+• Achieved 50% and 66.7% success rates on seen and unseen domains respectively (12x improvement over base models).
+
+AI Software Engineer Intern May 2025 – Sept. 2025
+CRED San Francisco, CA
+• Worked on internal automation tools for PMs to take notes, review transcripts, and identify key problems and solutions,
+saving up to 2 hours per workflow.
+• Designed an AI bug-fixing agent for writing fixes, Q&A, and reviewing bugs, saving developers up to 4 hours.
+• Crafted features for CRED’s Chrome Extension using LLMs for intelligent preprocessing and semantic chunking to scrape
+webpage data, achieving 84% accuracy in benchmark test, and enhanced the process to retrieve real-time data to users.
+• Optimized CRED’s AI Slack Bot using OCR models, reducing wait time by 15%.
+
+Machine Learning Researcher Aug. 2023 – May 2024
+Mayo Clinic Tempe, AZ
+• Fine-tuned Google’s T5-based LLM using Python, PyTorch, and scikit-learn, achieving 87% accuracy in extracting
+social determinants of health from clinical notes and predicting patient readmission within 30 days.
+• Helped hospitals reduce admission rates, lowering care costs in patient care management & improve clinical decisions.
+
+Software Quality Assurance Intern May 2022 – Aug. 2022
+Knight Transportation Phoenix, AZ
+• Authored detailed test cases and resolved critical bugs via Microsoft Azure DevOps and Elasticsearch, resulting in a
+28% reduction in bug resolution time.
+• Collaborated with Backend Engineers to optimize User Experience, resulting in a 42% increase in app engagement and a
+23% decrease in user complaints.
+

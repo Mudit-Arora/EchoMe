@@ -1,0 +1,44 @@
+Blindspot
+https://github.com/Mudit-Arora/Blindspot
+Tech Stack: Swift/SwiftUI, CoreML, VisionKit, Python (FastAPI), Smallest.ai API, Groq
+An accessibility-focused iOS app for blind and visually impaired users. Blindspot uses on-device computer vision to analyze surroundings and a voice AI agent that describes what's happening and helps users navigate safely.
+
+SlugMeditate
+https://github.com/briankhoi/slugmeditate.git
+Tech Stack: Python, Gemini API, Niantic Studio, Next.js
+A pipeline that transforms your thoughts into a 3D ambient escape. SlugMeditate takes a text input from the user and transforms it into Image Generation, Video Creation, Music Generation, 3D Scene Mapping, and finally VR Immersion.
+
+EduVoice AI
+https://github.com/yooleee/Vibecon-Education-Platform
+Tech Stack: Emergent, Cartesia, Deepgram, LiveKit, Silero VAD, React + Tailwind, OpenAI API
+Full-stack Voice AI platform using enabling students to interact with uploaded lecture content through multilingual voice powered conversations, automated quizzes, and AI-generated summary.
+
+EduMUSE
+https://github.com/iamsorenl/EduMUSE
+Tech Stack: Crew AI, SerperDev, ElevenLabs, React + Material UI, OpenAI API
+A comprehensive AI tutoring system that transforms study materials into personalized learning experiences. The platform combines document processing, knowledge retrieval, and interactive tutoring through a modular multi-agent architecture.
+
+Language Modelling
+https://github.com/Mudit-Arora/Language-Modeling.git
+Tech Stack: PyTorch, Transformers, NLP
+Engineered a decoder-only transformer architecture from scratch using PyTorch, focusing on next-word prediction tasks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
